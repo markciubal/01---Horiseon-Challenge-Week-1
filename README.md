@@ -2,7 +2,9 @@
 
 ## Challenge  Completed!
 
-I have completed the following acceptance criteria for this assignement.
+I have completed the following acceptance criteria for this assignement. In this assignment, we were instructed to refactor the HTML and CSS of the website. I tried to also incorporate newer content from this week, however I did not know if this has strict acceptance criteria, or if my "improvements" were actual improvements.
+
+[If you've reached this in error, and you would like to go to the deployed page, click here.](https://markciubal.github.io/01-Horiseon-Challenge-Week-1/Develop/)
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -18,7 +20,7 @@ WHEN I view the title element
 ✅ - THEN I find a concise, descriptive title
 ```
 
-, I have resized the images to 1800px and compressed to 90% quality. It results in a better user experience, and will save money on bandwidth (20mb file to less than 1mb)!
+I have resized the images to 1800px and compressed to 90% quality. It results in a better user experience, and will save money on bandwidth (20mb file to less than 1mb)!
 
 ## Challenges in This Course
 
